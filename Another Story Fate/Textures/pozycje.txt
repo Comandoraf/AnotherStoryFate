@@ -1,0 +1,4 @@
+exitshop 841,398
+shop1 46,35
+shop2 201,35
+shop3 357,35
